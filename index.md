@@ -31,8 +31,8 @@ I am a second year student, very passionate about problem solving and coding. Cu
 
 ---
 ## CONTACT
-Vaibhav Garg
-8696XXXXXX
-2023ucp1659@mnit.ac.in
-[LinkedIn](https://www.linkedin.com/in/vaibhav-garg-1329a827b/)
+Vaibhav Garg  
+8696XXXXXX  
+2023ucp1659@mnit.ac.in  
+[LinkedIn](https://www.linkedin.com/in/vaibhav-garg-1329a827b/)  
 ---
