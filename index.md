@@ -8,7 +8,7 @@ I am a second year student, very passionate about problem solving and coding. Cu
 ---
 ## EDUCATION
 | INSTITUTE | YEAR OF PASSING | DEGREE | GRADE |
-| :------------: | :--------: | :-------: | :-----: |
+| :----: | :----: | :----: | :----: |
 | Malaviya National Institute of Technology, Jaipur | 2027 | Btech CSE | 7.76 CGPA |
 | BL International Smart School, Todaraisingh | 2023 | Class 12 | 88.6% |
 | BL International Smart School, Todaraisingh | 2021 | Class 10 | 96.4% |
